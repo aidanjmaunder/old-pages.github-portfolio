@@ -6360,6 +6360,31 @@ th.hide-for-touch {
   margin-bottom: 50px;
 }
 
+/* icons section */
+
+#iconsColor {
+  padding-top: 25px;
+  background-color: #232323;
+  width: 100%;
+}
+
+#iconsH {
+  font-family: 'Droid Sans', sans-serif;
+  font-weight: bold;
+  color: #F2F2F2;
+  font-size: 45px;
+  margin-bottom: 10px;
+}
+
+#icons {
+  font-family: 'Droid Sans', sans-serif;
+  color: #F2F2F2;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
 /* contact section */
 
 #contactColor {
@@ -6422,7 +6447,7 @@ h1 {
   margin-left: 10px;
 }
 
-#footer a:link, a:visited {
+#footer a:link {
   color: green;
 }
 
